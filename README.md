@@ -4,16 +4,16 @@
 
 1. [Пользователи репозитория](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F)
 2. [Этапы создания курса](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%AD%D1%82%D0%B0%D0%BF%D1%8B-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA%D1%83%D1%80%D1%81%D0%B0)
-[Работа с контентом курса](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%BE%D0%BC-%D0%BA%D1%83%D1%80%D1%81%D0%B0)
-[Структура стандартного репозитория курса](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BA%D1%83%D1%80%D1%81%D0%B0-%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D0%B5%D1%82)
-[Совместная работа](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A1%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0)
-[До отправления курса в продакшн - ревизия проблем](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%94%D0%BE-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D1%83%D1%80%D1%81%D0%B0-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%88%D0%BD---%D1%80%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82-%D0%B2%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B8%D1%85-%D1%82%D0%B8%D0%BF%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC)
-[Типовые структуры курса](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A2%D0%B8%D0%BF%D0%BE%D0%B2%D1%8B%D0%B5-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%BA%D1%83%D1%80%D1%81%D0%B0)
-[Курс](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%9A%D1%83%D1%80%D1%81)
-[Урок](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A3%D1%80%D0%BE%D0%BA%D0%B0)
-[Раздел](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0)
-[Тест](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A2%D0%B5%D1%81%D1%82%D0%B0)
-[Задание](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+3. [Работа с контентом курса](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%BE%D0%BC-%D0%BA%D1%83%D1%80%D1%81%D0%B0)
+4. [Структура стандартного репозитория курса](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BA%D1%83%D1%80%D1%81%D0%B0-%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D0%B5%D1%82)
+5. [Совместная работа](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A1%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0)
+6. [До отправления курса в продакшн - ревизия проблем](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%94%D0%BE-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D1%83%D1%80%D1%81%D0%B0-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%88%D0%BD---%D1%80%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82-%D0%B2%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B8%D1%85-%D1%82%D0%B8%D0%BF%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC)
+7. [Типовые структуры курса](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A2%D0%B8%D0%BF%D0%BE%D0%B2%D1%8B%D0%B5-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%BA%D1%83%D1%80%D1%81%D0%B0)
+8. [Курс](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%9A%D1%83%D1%80%D1%81)
+9. [Урок](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A3%D1%80%D0%BE%D0%BA%D0%B0)
+10. [Раздел](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0)
+11. [Тест](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%A2%D0%B5%D1%81%D1%82%D0%B0)
+12. [Задание](https://github.com/SerendipityLab/course-development/blob/master/README.md#%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
 
 ### Пользователи репозитория
