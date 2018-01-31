@@ -10,9 +10,9 @@
 
 - Hide quiz title - Activate 
 - Hide "Restart quiz" button - De-Activate
-- Hide "View question" button - Activate
+- Hide "View question" button - De-Activate
 - Display question randomly - De-Activate
-- Display answers randomly - De-Activate
+- Display answers randomly - Activate
 - Sort questions by category - De-Activate
 - Time limit - 0
 - Protect Quiz Answers in Browser Cookie - 60
@@ -22,13 +22,13 @@
 - Execute quiz only once - De-Activate
 - Show only specific number of questions - De-Activate
 - Prerequisites - De-Activate
-- Question overview   - Activate
+- Question overview   - De-Activate
 - Quiz-summary - Activate
 - Skip question  - Activate
 - Admin e-mail notification - for registered users only
 - User e-mail notification - Activate
-- Autostart  - De-Activate
-- Only registered users are allowed to start the quiz - Activate
+- Autostart  - Activate
+- Only registered users are allowed to start the quiz - De-Activate
 
 ## Question options
 
@@ -38,13 +38,13 @@
 - Correct and incorrect answer mark - Activate
 - Force user to answer each question - Activate
 - Hide question position overview - De-Activate
-- Hide question numbering - De-Activate
+- Hide question numbering - Activate
 - Display category - De-Activate
 
 ## Result options
 
 - Show average points - Activate
-- Show category score - Activate
+- Show category score - De-Activate
 - Hide correct questions - display  - De-Activate
 - Hide quiz time - display  - De-Activate
 - Hide score - display  - De-Activate
