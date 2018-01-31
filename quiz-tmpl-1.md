@@ -3,7 +3,7 @@
 
 <img src="https://github.com/SerendipityLab/COURSE-IDEA-DEVELOPMENT-ip2/blob/master/2/pics/Screen%20Shot%202018-01-02%20at%207.51.48%20PM.png">
 
-Пример: http://learn.alexeykrol.com/wp-admin/post.php?post=928&action=edit
+Пример: https://learn.serendipity.university/wp-admin/post.php?post=766&action=edit
 
 
 ## Options
